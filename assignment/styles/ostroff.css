@@ -1,0 +1,64 @@
+/*  add your styles below
+    Keep all the comments I have provided.
+    Where I have commented "keep," DO NOT touch that line!
+    */
+
+header {
+    
+        background: #9AD0E8; /*  blue */
+}
+
+body {
+    background: #B6C0FF; /* periwinkle */
+    color: #000; /* change */
+    font-family: Calibri, Arial, sans-serif; /* keep */
+}
+
+aside {
+    
+    background: #B6C0FF; /* periwinkle */
+
+}
+
+article {
+    background: #FDA9FF; /* pink */
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 1px solid; /* can delete */
+}
+
+figure {
+    
+        background: #BA99E8; /* purple */
+}
+
+a:link {
+    color:#961A25;
+}
+a:visited {
+    color: #112096;
+}
+a:focus { 
+    color: #00f;
+}
+a:hover {
+    color: #5B307F;
+}
+a:active {
+    color: #f0f;
+}
+
+footer {
+    
+    background: #9AD0E8; /*  blue */
+}
+/* add your styles here
+#FDA9FF - pink
+#BA99E8 - purple
+#B6C0FF - perwinkle
+#9AD0E8 -  blue
+*/
+
+
+/* add your pseudo classes below this line */
